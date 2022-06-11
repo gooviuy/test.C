@@ -26,3 +26,7 @@ To Start Server:
 To Visit App:
 
 localhost:3000/
+
+To Compile the app :
+
+`npm run build`
