@@ -8,6 +8,7 @@ added to increse the product value in the context of sharing knowloge.
 
 ## Project Status
 Styling - needs to be refined.
+
 Logic - already complete (keys needs to beed added within the map logic to avoid errors). 
 
 ## Installation and Setup Instructions
