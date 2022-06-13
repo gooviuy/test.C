@@ -1,0 +1,5 @@
+En el directorio, los scripts habilitados:
+
+npm install (instalara las dependencias).
+
+npm start (para levantar el proyecto).

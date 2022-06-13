@@ -1,0 +1,72 @@
+@import "../styles/shared.scss";
+
+.p-tabview .p-tabview-nav {
+  background-color: $color-grey !important;
+    border: none;
+  }
+
+  .pi {
+    font-size: 1rem;
+  }
+
+  .p-tabview .p-tabview-nav li {
+    margin-right: 1rem;
+  }
+
+  .p-tabview .p-tabview-nav .p-tabview-ink-bar {
+    display: none !important;
+    height: 0px;
+  }
+
+  .p-tabview .p-tabview-panels {
+    padding: none;
+  }
+
+  .p-tabview-panel {
+    padding: none;
+  }
+  
+  .p-tabview-nav-content {
+    background: $color-grey;
+  }
+
+  .p-button-label {
+    color: $color-white;
+    align-content: center;
+  }
+
+  .p-button {
+    background-color: $color-magenta;
+    border: none !important;
+    margin-bottom: 1rem;
+    align-content: center;
+    margin: 1rem !important;
+    border-radius:  1rem !important;
+  }
+
+  .p-button:hover {
+    background-color: $color-hard-purple !important;
+  }
+
+.p-menu.p-menu-overlay {
+width: 11rem;
+}
+
+.nested-panel {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.footer-buttons {
+  display: inline;
+  justify-content: end;
+  float: right;
+}
+
+
+.display-user{
+  display: flex;
+  justify-content: center
+}
